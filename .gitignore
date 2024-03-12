@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.cproject
+Src/.project
+Src/.template
+Src/Ld/
+Src/obj/
+Src/.settings/
+Src/sync.ffs_db
+Src/TSTCH32V003F4U6.launch
+Src/TSTCH32V003F4U6.wvproj
